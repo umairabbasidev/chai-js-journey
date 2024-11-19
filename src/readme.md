@@ -60,3 +60,32 @@
 
 <hr/>
 <br/>
+
+
+## Lecture 5: Datatypes
+
+- Prefer to practice on keyboard rather then taking notes on paper, write notes here itself so to remember
+- **"use strict"** if we use above 2 words, it means it is newer version of javascript
+- alert("hello") if we run the code, it ll given an error saying node is not defined, as js engine is hidden in browser ➜ it means, to run alert() has different way ti run it.
+- In coding readability is very important ans it should be future proof
+  For documentation prfer mdn (mozilla documentation)
+- Original documenataion would be find in tc39.es
+- ECMA Script is the standard way of writing javscript
+- **For Example:**  if we write loop, then we should write in this way etc
+- In js , we have different datatype,
+- Primitive Datatype:
+- Like number, string, boolean, null, undefined, bigInt, symbol
+- Prefer to use double quotes for string datatype
+- Boolean will say yes or no, it has only 2 values
+- null ➜ it is standalone value, yes it is datatype as well
+- null is representaiton of empty value
+- null means value is empty, example, like giving empty value while monitoring the temp, as we cant give 0, as 0 has some value in temp scale
+- ndefined ➜ means some value is not defined
+- Symbol datatype is used to fincdout the uniquness ➜ it is used in react, to find the component
+- typeof ➜ to know the type of any variable, we use typeof
+- **Example:**
+  ```javascript
+  console.log(typeof "umairabbasi") ➜ string
+
+<hr/>
+<br/>

@@ -37,6 +37,7 @@ Examples:
 */
 
 // Example 1: `var` disrespects block scope
+/*
 if (true) {
     var badVar = "I ignore blocks!";
   }
@@ -57,4 +58,4 @@ if (true) {
   // Example 4: Using `const` (immutable and block-scoped)
   const goodConst = "I stay in my block and never change!";
   // goodConst = "Trying to change"; // Error: Assignment to constant variable
-  
+  */
